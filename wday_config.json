@@ -3,7 +3,7 @@
         "name": "NA",
         "start": "2022-12-05T00:00:00-0500",
         "end": "2022-12-11T23:59:59-0500",
-        "format": "%Y-%m-%dT%H:%M:%S%z",
+        "format": "%Y-%m-%dT%H:%M:%S%z"
     },
     "locations": [
         {
